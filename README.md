@@ -1,5 +1,4 @@
 # Trabalho-de-Analise-Preditiva
-Trabalho de Analise Preditiva
 Alunas: Daíse Cabral, Jéssica Cristina e João Victor
 
 
