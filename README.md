@@ -1,5 +1,5 @@
 # Trabalho-de-Analise-Preditiva
-Alunas: Daíse Cabral, Jéssica Cristina e João Victor
+Alunas: Daíse Cabral e Jéssica Cristina
 
 
 Estamos enviando o trabalho escrito e o código
